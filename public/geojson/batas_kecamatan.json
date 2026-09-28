@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "WADMKC": "Pasar Kemis",
+        "KECAMATAN": "Pasar Kemis",
+        "KABUPATEN": "Tangerang"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.530, -6.180],
+            [106.570, -6.180],
+            [106.570, -6.140],
+            [106.530, -6.140],
+            [106.530, -6.180]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WADMKC": "Cikupa",
+        "KECAMATAN": "Cikupa",
+        "KABUPATEN": "Tangerang"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.500, -6.250],
+            [106.550, -6.250],
+            [106.550, -6.190],
+            [106.500, -6.190],
+            [106.500, -6.250]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WADMKC": "Jayanti",
+        "KECAMATAN": "Jayanti",
+        "KABUPATEN": "Tangerang"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.390, -6.210],
+            [106.440, -6.210],
+            [106.440, -6.170],
+            [106.390, -6.170],
+            [106.390, -6.210]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WADMKC": "Balaraja",
+        "KECAMATAN": "Balaraja",
+        "KABUPATEN": "Tangerang"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.430, -6.220],
+            [106.490, -6.220],
+            [106.490, -6.170],
+            [106.430, -6.170],
+            [106.430, -6.220]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WADMKC": "Sindang Jaya",
+        "KECAMATAN": "Sindang Jaya",
+        "KABUPATEN": "Tangerang"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.480, -6.180],
+            [106.530, -6.180],
+            [106.530, -6.140],
+            [106.480, -6.140],
+            [106.480, -6.180]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WADMKC": "Sukamulya",
+        "KECAMATAN": "Sukamulya",
+        "KABUPATEN": "Tangerang"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.420, -6.170],
+            [106.470, -6.170],
+            [106.470, -6.110],
+            [106.420, -6.110],
+            [106.420, -6.170]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WADMKC": "Sepatan",
+        "KECAMATAN": "Sepatan",
+        "KABUPATEN": "Tangerang"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.550, -6.140],
+            [106.590, -6.140],
+            [106.590, -6.090],
+            [106.550, -6.090],
+            [106.550, -6.140]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WADMKC": "Sepatan Timur",
+        "KECAMATAN": "Sepatan Timur",
+        "KABUPATEN": "Tangerang"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.580, -6.140],
+            [106.630, -6.140],
+            [106.630, -6.090],
+            [106.580, -6.090],
+            [106.580, -6.140]
+          ]
+        ]
+      }
+    }
+  ]
+}
